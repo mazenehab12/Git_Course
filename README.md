@@ -1,2 +1,5 @@
 # Git_Course
-For Mazen Ehab Git 
+For Mazen Ehab Git
+
+
+## Project Notes
